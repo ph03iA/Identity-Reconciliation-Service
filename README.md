@@ -1,4 +1,4 @@
-# Bitespeed Identity Reconciliation Service
+# Identity Reconciliation Service
 
 A web service that identifies and links customer contacts across multiple purchases, even when different email addresses and phone numbers are used.
 
